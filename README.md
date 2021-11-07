@@ -65,12 +65,3 @@ Click on following link to see the Code in Action:
 
 * Google Cloud for DevOps Engineers [[Packt]](https://www.packtpub.com/product/google-cloud-for-devops-engineers/9781839218019?utm_source=github&utm_medium=repository&utm_campaign=9781839218019) [[Amazon]](https://www.amazon.com/dp/1839218010)
 
-## Get to Know the Author
-**Ravi Mishra**
-(born in 1988) is a multi-cloud architect with a decade of experience in the IT industry. He started his career as a network engineer, then later, with time, he got the opportunity to work in the cloud domain, where he worked his hardest to become an expert in cloud platforms such as AWS, Azure, GCP, and Oracle. Along with the cloud, he has also developed a skillset in DevOps, containerization, Kubernetes, and Terraform. This was what inspired him to write this book.
-Ravi has an electronics engineering degree, with a postgraduate diploma in IT project management.
-Throughout his career, he has worked with multiple global MNCs.
-He has more than 35 cloud certifications, including as a Microsoft Certified Trainer and a public speaker. You can find him on LinkedIn as inmishrar.
-
-
-
