@@ -3,4 +3,4 @@ resource "azurerm_resource_group" "terraform-rg" {
   location = var.rglocation
 }
 
-## added comment
+## added comment - 7th Nov
